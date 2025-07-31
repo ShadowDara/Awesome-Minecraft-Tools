@@ -1,4 +1,4 @@
-# Minecraft-Tools
+# Awesome Minecraft-Tools
 a Tool Collection for Minecraft- see [Info](#info)
 
 ## Downloading Mods, Datapacks, Resourcepacks, Shaders, Skins ...
