@@ -7,6 +7,7 @@ a Tool Collection for Minecraft- see [Info](#info)
 | [Modrinth](https://modrinth.com) | a place for downloading mods, resourcepacks, datapacks, shaders ... |
 | [Curseforge](https://www.curseforge.com/minecraft)| a place for downloading mods, resourcepacks, datapacks, shaders, worlds ... |
 | [Planetminecraft](https://www.planetminecraft.com)| a place for downloading mods, resourcepacks, datapacks, shaders, worlds and skins ... |
+| [VanillaTweaks](https://vanillatweaks.net) | a place for downloading Vanilla like resource packs and datapacks |
 
 ## Making Data and Resource Packs ...
 | Name | Description |
