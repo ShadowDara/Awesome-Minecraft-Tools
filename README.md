@@ -21,9 +21,14 @@ a Tool Collection for Minecraft- see [Info](#info)
 | Name | Description |
 |:--:|:--:|
 | [namemc.com](https://namemc.com/minecraft-skins) | a place to browse and skins |
+| [minecraftskins.com](https://www.minecraftskins.com) | a website to browse and create new skins |
 
 ## Info
 - obviously this List is **NOT** complete, so please help me and add missing stuff :)
+
+### Contributing
+- feel free to create Issue to contribute and help the List
+
 ### Why?
 - i didnt found a List, so i made one. Would be cool if this List will be used by many people
 
