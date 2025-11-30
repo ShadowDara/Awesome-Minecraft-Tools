@@ -71,7 +71,7 @@ Default Template
 
 ## Farms
 
-The size for the farm goes from Level 1 to 5, including space, buildtime, complexity, blocks etc ...
+The size for the farm goes from Level 0 to 5, including space, buildtime, complexity, blocks etc ...
 
 | Emoji | Meaning |
 |:--:|:--:|
@@ -108,10 +108,28 @@ Default Template
 | [Ice Farm. Redstoneless. AFKable. 16-18k/h \[Fun Farms 21\] Minecraft 1.13](https://youtu.be/d8A06bX2f3Y?si=AbfCFczYIO1Mhjxn) | ca 16-18k/h | 3/5 (Cold Biom and a lot of space required) | 💥 |
 |  |  |  |  |
 
+### Mobsfarm
+| Link | Rates | Size | AFK |
+|:--:|:--:|:--:|:--:|
+| [\[Simple\] Path Finding Mob Farm 1.14](https://youtu.be/gibE51sgutg?si=e-uQKfH7DcS6sJuD) |  | 0/5 (Building Blocks only) | 💥 |
+|  |  |  |  |
+
+### Potion Brewer
+| Link | Rates | Size | AFK |
+|:--:|:--:|:--:|:--:|
+| [Fully Automatic Potion Brewer \| Minecraft Java 1.20+ Redstone Tutorial](https://youtu.be/tafjYzMePg0?si=IKCBLLCbnBycFBvQ) |  | 2/5 (Redstone Stuff, Shulker) | ✔ |
+|  |  |  |  |
+
 ### Sand
 | Link | Rates | Size | AFK |
 |:--:|:--:|:--:|:--:|
 | [Most Compact 108k/h Sand Duper \| Tutorial](https://youtu.be/S4HISFFdnuc?si=8OkEu7Zt5EVPlVpb) | ca 108k/h | 3/5 (End Portal Required) | ✔ |
+|  |  |  |  |
+
+### Sea Pickle
+| Link | Rates | Size | AFK |
+|:--:|:--:|:--:|:--:|
+| [Minecraft Simple Sea Pickle Farm 1.20 Tutorial \| ( Automatic )](https://youtu.be/bAYi7YyNV80?si=pHCmWogWMpUd6ZP9) |  | 1/5 (Redstone Stuff) | 💚 |
 |  |  |  |  |
 
 ## Info
