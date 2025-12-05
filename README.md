@@ -7,6 +7,45 @@
 # Awesome Minecraft-Tools
 a Tool Collection for Minecraft- see [Info](#info)
 
+<!--$$MD_INDEX_START$$-->
+<!-- 
+    Index by Automatic MD Index
+    a simple Tool to Index your Markdown files like this
+
+    More Infos:
+    https://github.com/ShadowDara/automatic-md-index
+
+    DO NOT REMOVE THIS CREDIT !!!
+
+    Last Update Time of the Index:
+    2025-12-05T12:48:59.955Z
+-->
+## Index
+- [Awesome Minecraft-Tools](#awesome-minecraft-tools)
+  - [](#)
+  - [Downloading Mods, Datapacks, Resourcepacks, Shaders, Skins ...](#downloading-mods,-datapacks,-resourcepacks,-shaders,-skins-...)
+  - [Making Data and Resource Packs ...](#making-data-and-resource-packs-...)
+  - [Skins](#skins)
+  - [Wikis](#wikis)
+  - [Building](#building)
+  - [Programs](#programs)
+  - [Modded](#modded)
+  - [Farms](#farms)
+    - [](#)
+    - [Copper](#copper)
+    - [Deepslate](#deepslate)
+    - [Ice](#ice)
+    - [Mobsfarm](#mobsfarm)
+    - [Potion Brewer](#potion-brewer)
+    - [Sand](#sand)
+    - [Sea Pickle](#sea-pickle)
+  - [Info](#info)
+    - [Contributing](#contributing)
+    - [Why?](#why?)
+    - [Why a License?](#why-a-license?)
+<!-- Index by Automatic MD Index -->
+<!--$$MD_INDEX_END$$-->
+
 <!--
 Default Template
 
