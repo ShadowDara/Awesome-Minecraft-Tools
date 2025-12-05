@@ -18,20 +18,20 @@ a Tool Collection for Minecraft- see [Info](#info)
     DO NOT REMOVE THIS CREDIT !!!
 
     Last Update Time of the Index:
-    2025-12-05T12:48:59.955Z
+    2025-12-05T13:18:46.236Z
 -->
 ## Index
 - [Awesome Minecraft-Tools](#awesome-minecraft-tools)
-  - [](#)
   - [Downloading Mods, Datapacks, Resourcepacks, Shaders, Skins ...](#downloading-mods,-datapacks,-resourcepacks,-shaders,-skins-...)
-  - [Making Data and Resource Packs ...](#making-data-and-resource-packs-...)
+  - [Making Data Packs](#making-data-packs)
+  - [Making Resource Packs](#making-resource-packs)
+  - [Making Mods](#making-mods)
   - [Skins](#skins)
   - [Wikis](#wikis)
   - [Building](#building)
   - [Programs](#programs)
   - [Modded](#modded)
   - [Farms](#farms)
-    - [](#)
     - [Copper](#copper)
     - [Deepslate](#deepslate)
     - [Ice](#ice)
@@ -65,15 +65,26 @@ Default Template
 | [VanillaTweaks](https://vanillatweaks.net) | a place for downloading Vanilla like resource packs and datapacks |
 |  |  |
 
-## Making Data and Resource Packs ...
+## Making Data Packs
 | Name | Description |
 |:--:|:--:|
 | [misode.github.io](https://misode.github.io) | tools for datapacks, resourcepacks, worlds and a lot more stuff |
 | [minecraft.tools](https://minecraft.tools) | tools for commands, world generation, crafting recipes, and tellraw commands |
 | [minecraftjson.com](https://www.minecraftjson.com) | tellraw and title generator for minecraft |
 | [mcstacker.net](https://mcstacker.net) | command generator for minecraft |
+|  |  |
+
+## Making Resource Packs
+| Name | Description |
+|:--:|:--:|
+| [misode.github.io](https://misode.github.io) | tools for datapacks, resourcepacks, worlds and a lot more stuff |
 | [Atlas-Logger](https://github.com/Dominexis/Atlas-Logger) | atlas generator for resource packs because minecraft doens't generate them automaticly after 1.19.3 |
 | [Blockbench](https://www.blockbench.net) | 3d programm for making pixel art models and textures |
+|  |  |
+
+## Making Mods
+| Name | Description |
+|:--:|:--:|
 |  |  |
 
 ## Skins
@@ -81,6 +92,7 @@ Default Template
 |:--:|:--:|
 | [namemc.com](https://namemc.com/minecraft-skins) | a place to browse and skins |
 | [minecraftskins.com](https://www.minecraftskins.com) | a website to browse and create new skins |
+| [minecraft.tools](https://minecraft.tools) | skin stealer |
 |  |  |
 
 ## Wikis

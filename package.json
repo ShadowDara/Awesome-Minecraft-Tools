@@ -3,6 +3,6 @@
     "update": "node ./node_modules/automatic-md-index/dist/index.js --files=README.md"
   },
   "dependencies": {
-    "automatic-md-index": "^1.0.0"
+    "automatic-md-index": "^1.1.0"
   }
 }
