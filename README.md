@@ -112,6 +112,7 @@ Default Template
 | Name | Description |
 |:--:|:--:|
 | [NBTExplorer](https://github.com/jaquadro/NBTExplorer) | A graphical NBT editor for all Minecraft NBT data sources |
+| [Blockbench](https://www.blockbench.net) | 3d programm for making pixel art models and textures |
 |  |  |
 
 ## Modded
@@ -185,6 +186,8 @@ Default Template
 
 ## Info
 - obviously this List is **NOT** complete, so please help me and add missing stuff :)
+- Some Stuff is listed in multipple topics because its not possible to only sort them
+to one topic spezifically
 
 ### Contributing
 - feel free to create Issue to contribute and help the List
