@@ -18,7 +18,7 @@ a Tool Collection for Minecraft- see [Info](#info)
     DO NOT REMOVE THIS CREDIT !!!
 
     Last Update Time of the Index:
-    2025-12-05T13:18:46.236Z
+    2025-12-14T22:18:15.782Z
 -->
 ## Index
 - [Awesome Minecraft-Tools](#awesome-minecraft-tools)
@@ -39,6 +39,8 @@ a Tool Collection for Minecraft- see [Info](#info)
     - [Potion Brewer](#potion-brewer)
     - [Sand](#sand)
     - [Sea Pickle](#sea-pickle)
+  - [Develeping](#develeping)
+    - [Packformats for Data and Resource Packs as JSON](#packformats-for-data-and-resource-packs-as-json)
   - [Info](#info)
     - [Contributing](#contributing)
     - [Why?](#why?)
@@ -183,6 +185,12 @@ Default Template
 |:--:|:--:|:--:|:--:|
 | [Minecraft Simple Sea Pickle Farm 1.20 Tutorial \| ( Automatic )](https://youtu.be/bAYi7YyNV80?si=pHCmWogWMpUd6ZP9) |  | 1/5 (Redstone Stuff) | 💚 |
 |  |  |  |  |
+
+## Develeping
+
+### Packformats for Data and Resource Packs as JSON
+click [here](/content/packformats/) to get to the JSON List for Data and Resource
+Packs
 
 ## Info
 - obviously this List is **NOT** complete, so please help me and add missing stuff :)

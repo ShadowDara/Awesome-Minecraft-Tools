@@ -4,3 +4,7 @@
 # Markdown
 *.md linguist-detectable=true
 *.md linguist-documentation=false
+
+# JSON
+*.json linguist-detectable=true
+*.json linguist-documentation=false
