@@ -21,11 +21,11 @@ a Tool Collection for Minecraft- see [Info](#info)
     DO NOT REMOVE THIS CREDIT !!!
 
     Last Update Time of the Index:
-    2026-04-17T20:49:43.944Z
+    2026-04-18T09:42:07.027Z
 -->
 ## Index
 - [Awesome Minecraft-Tools](#awesome-minecraft-tools)
-  - [Downloading Mods, Datapacks, Resourcepacks, Shaders, Skins ...](#downloading-mods,-datapacks,-resourcepacks,-shaders,-skins-...)
+  - [Downloading Mods, Datapacks, Resourcepacks, Shaders, Skins ...](#downloading-mods-datapacks-resourcepacks-shaders-skins-)
   - [Making Data Packs](#making-data-packs)
   - [Making Resource Packs](#making-resource-packs)
   - [Making Mods](#making-mods)
@@ -42,12 +42,16 @@ a Tool Collection for Minecraft- see [Info](#info)
     - [Potion Brewer](#potion-brewer)
     - [Sand](#sand)
     - [Sea Pickle](#sea-pickle)
-  - [Develeping](#develeping)
+  - [Repo Content](#repo-content)
     - [Packformats for Data and Resource Packs as JSON](#packformats-for-data-and-resource-packs-as-json)
+    - [Language Codegen for Mods](#language-codegen-for-mods)
+  - [Other Tools by me](#other-tools-by-me)
+    - [Finder](#finder)
+    - [Videoconverter](#videoconverter)
   - [Info](#info)
     - [Contributing](#contributing)
-    - [Why?](#why?)
-    - [Why a License?](#why-a-license?)
+    - [Why?](#why)
+    - [Why a License?](#why-a-license)
 <!-- Index by Automatic MD Index -->
 <!--$$MD_INDEX_END$$-->
 
@@ -216,9 +220,24 @@ click [here](/content/packformats/) to get to the JSON List for Data and Resourc
 Packs
 
 
-### Codegen
+### Language Codegen for Mods
 
 Generate the JSON Files for language files for Minecraft Mods or Datapacks. [CLick here](/content/language_datagen/)
+
+
+## Other Tools by me
+
+
+### Finder
+
+a CLI Tool which can search for Minecraft Worlds on your Disk.
+[Clicke here](https://github.com/shadowdara/finder) to see it
+
+
+### Videoconverter
+
+a Tool which can be used to convert Replay Mod Recordings to real
+Videos. [Clicke here](https://github.com/shadowdara/videoconverter) to see it
 
 
 ## Info
