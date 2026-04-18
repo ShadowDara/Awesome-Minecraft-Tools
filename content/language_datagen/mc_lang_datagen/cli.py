@@ -1,5 +1,5 @@
 import argparse
-from mc_lang_tool.core import Entry, Lang, MC_Tool
+from mc_lang_datagen.core import Entry, Lang, MC_Tool
 
 
 def main():

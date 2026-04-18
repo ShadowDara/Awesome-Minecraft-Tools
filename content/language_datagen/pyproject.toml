@@ -1,8 +1,8 @@
 [project]
 name = "mc-lang-tool"
-version = "0.1.0"
+version = "0.1.1"
 description = "Minecraft language file generator CLI"
 requires-python = ">=3.9"
 
 [project.scripts]
-mc-lang-dt = "mc_lang_tool.cli:main"
+mc-lang-dt = "mc_lang_datagen.cli:main"

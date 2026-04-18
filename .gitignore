@@ -2,3 +2,4 @@ node_modules/
 bun.lock
 
 content/language_datagen/mc_lang_tool.egg-info
+__pycache__
