@@ -222,7 +222,14 @@ Packs
 
 ### Language Codegen for Mods
 
-Generate the JSON Files for language files for Minecraft Mods or Datapacks. [CLick here](/content/language_datagen/)
+Generate the JSON Files for language files for Minecraft Mods or Datapacks. [Click here](/content/language_datagen/)
+
+Or Install by running
+
+```sh
+cd content/language_datagen
+pip install -e .
+```
 
 
 ## Other Tools by me
