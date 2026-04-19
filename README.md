@@ -100,6 +100,8 @@ Default Template
 | Name | Description |
 |:--:|:--:|
 | [fabricmc.net/develop/template](https://fabricmc.net/develop/template/) | Fabric Mod Template Generator |
+| [Blockbench](https://www.blockbench.net) | 3d programm for making pixel art models and textures |
+| [misode.github.io](https://misode.github.io) | tools for datapacks, resourcepacks, worlds and a lot more stuff |
 |  |  |
 
 
@@ -124,6 +126,8 @@ Default Template
 | Name | Description |
 |:--:|:--:|
 | [builditapp.com](https://builditapp.com) | view Buildings with a detailed catalogue and Instruction to build it |
+| [r/Minecraftbuilds](https://www.reddit.com/r/Minecraftbuilds/) | a place to showcase your completed builds!From PC to Pocket Edition, professional to novice all are welcome. We want to see what you have created! |
+| [Pinterest](https://de.pinterest.com/tinycraft/minecraft-building-ideas/) | Easy & creative build ideas for your Minecraft survival worlds and how to build them. See more ideas about minecraft, minecraft building, |
 |  |  |
 
 
@@ -145,6 +149,8 @@ Default Template
 ## Farms
 
 The size for the farm goes from Level 0 to 5, including space, buildtime, complexity, blocks etc ...
+
+**AFK Emoji Meaning:**
 
 | Emoji | Meaning |
 |:--:|:--:|
