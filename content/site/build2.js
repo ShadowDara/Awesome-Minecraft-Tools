@@ -77,7 +77,7 @@ async function processDirectory(currentDir) {
                         data,
                         {
                             title: "Awesome Minecraft Tools",
-                            header: `<link rel="icon" href="data:image/svg+xml;base64,${btoa(await compressHTML(svgfile))}>`
+                            header: `<link rel="icon" href="data:image/svg+xml;base64,${btoa(await compressHTML(svgfile))}">`
                         }));
 
                 // index.html im Zielordner
