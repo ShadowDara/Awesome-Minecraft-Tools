@@ -1,8 +1,8 @@
 {
   "scripts": {
-    "update": "npx md-index --files=README.md"
+    "u": "npx md-index --files=README.md"
   },
   "dependencies": {
-    "automatic-md-index": "^1.2.1"
+    "automatic-md-index": "^1.2.2"
   }
 }

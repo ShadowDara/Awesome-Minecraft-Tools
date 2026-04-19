@@ -7,7 +7,7 @@
   "author": "",
   "description": "",
   "dependencies": {
-    "samengine": "^1.7.4",
+    "samengine": "^1.7.5",
     "samengine-build": "^1.7.10"
   }
 }
