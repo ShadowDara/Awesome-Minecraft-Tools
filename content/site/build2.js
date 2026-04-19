@@ -1,6 +1,9 @@
 import { parseMarkdownToDocument } from "samengine/utils";
+import { version } from "samengine/build";
 import fs from "fs/promises";
 import path from "path";
+
+console.log(version());
 
 const SRC_DIR = path.resolve("../../");
 const OUT_DIR = path.resolve("./dist");
