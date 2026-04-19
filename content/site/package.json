@@ -1,0 +1,13 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node build2.js"
+  },
+  "author": "",
+  "description": "",
+  "dependencies": {
+    "samengine": "^1.7.4",
+    "samengine-build": "^1.7.10"
+  }
+}

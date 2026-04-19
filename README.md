@@ -23,6 +23,7 @@ a Tool Collection for Minecraft- see [Info](#info)
     Last Update Time of the Index:
     2026-04-18T09:42:07.027Z
 -->
+
 ## Index
 - [Awesome Minecraft-Tools](#awesome-minecraft-tools)
   - [Downloading Mods, Datapacks, Resourcepacks, Shaders, Skins ...](#downloading-mods-datapacks-resourcepacks-shaders-skins-)
@@ -216,13 +217,13 @@ Default Template
 
 ### Packformats for Data and Resource Packs as JSON
 
-click [here](/content/packformats/) to get to the JSON List for Data and Resource
+click [here](content/packformats/) to get to the JSON List for Data and Resource
 Packs
 
 
 ### Language Codegen for Mods
 
-Generate the JSON Files for language files for Minecraft Mods or Datapacks. [Click here](/content/language_datagen/)
+Generate the JSON Files for language files for Minecraft Mods or Datapacks. [Click here](content/language_datagen/)
 
 Or Install by running
 
