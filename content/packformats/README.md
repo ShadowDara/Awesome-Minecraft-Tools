@@ -1,5 +1,7 @@
 # Resource and Datapack Format as JSON Value
 
+[Back to the Homepage](../..)
+
 Feel free to use it, but give credit to this
 Repository, so other people can find and use
 it.
@@ -19,4 +21,5 @@ the List.
 ```
 
 ## Credit
+
 https://minecraft.wiki/w/Pack_format
