@@ -31,7 +31,7 @@ async function processDirectory(currentDir) {
     if (entry.isFile() && entry.name.toLowerCase() === "readme.md") {
       try {
         const data = await fs.readFile(fullPath, "utf8");
-        const html = parseMarkdownToDocument(data);
+        const html = parseMarkdownToDocument(data, {title: "Awesome Minecraft Tools"});
 
         // index.html im Zielordner
         const outputFile = path.join(path.dirname(outPath), "index.html");
