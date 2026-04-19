@@ -99,6 +99,7 @@ Default Template
 ## Making Mods
 | Name | Description |
 |:--:|:--:|
+| [fabricmc.net/develop/template](https://fabricmc.net/develop/template/) | Fabric Mod Template Generator |
 |  |  |
 
 
