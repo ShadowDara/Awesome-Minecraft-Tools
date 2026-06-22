@@ -111,6 +111,7 @@ Default Template
 | [namemc.com](https://namemc.com/minecraft-skins) | a place to browse and skins |
 | [minecraftskins.com](https://www.minecraftskins.com) | a website to browse and create new skins |
 | [minecraft.tools](https://minecraft.tools) | skin stealer |
+| [mineskin.pro](https://www.mineskin.pro/) | Skin Editor |
 |  |  |
 
 
