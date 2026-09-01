@@ -9,7 +9,7 @@
 a Tool Collection for Minecraft- see [Info](#info)
 
 <!--$$MD_INDEX_START$$-->
-<!-- 
+<!--
     Index by Automatic MD Index
     a simple Tool to Index your Markdown files like this
 
@@ -19,10 +19,11 @@ a Tool Collection for Minecraft- see [Info](#info)
     DO NOT REMOVE THIS CREDIT !!!
 
     Last Update Time of the Index:
-    2026-09-01T08:17:29.293Z
+    2026-09-01T11:00:29.190Z
 -->
 
 ## Index
+
 - [Awesome Minecraft-Tools](#awesome-minecraft-tools)
   - [Downloading Mods, Datapacks, Resourcepacks, Shaders, Skins ...](#downloading-mods-datapacks-resourcepacks-shaders-skins-)
   - [Making Data Packs](#making-data-packs)
@@ -33,6 +34,7 @@ a Tool Collection for Minecraft- see [Info](#info)
   - [Minecraft Servers](#minecraft-servers)
   - [Building](#building)
   - [Programs](#programs)
+  - [Libarys](#libarys)
   - [Modded](#modded)
   - [Farms](#farms)
     - [Copper](#copper)
@@ -45,15 +47,13 @@ a Tool Collection for Minecraft- see [Info](#info)
   - [Repo Content](#repo-content)
     - [Packformats for Data and Resource Packs as JSON](#packformats-for-data-and-resource-packs-as-json)
     - [Language Codegen for Mods](#language-codegen-for-mods)
+    - [Tellraw Parser from JSON to SNBT](#tellraw-parser-from-json-to-snbt)
   - [Other Tools by me](#other-tools-by-me)
     - [Finder](#finder)
     - [Videoconverter](#videoconverter)
-  - [Info](#info)
-    - [Contributing](#contributing)
-    - [Why?](#why)
-    - [Why a License?](#why-a-license)
-<!-- Index by Automatic MD Index -->
-<!--$$MD_INDEX_END$$-->
+  - [Info](#info) - [Contributing](#contributing) - [Why?](#why) - [Why a License?](#why-a-license)
+    <!-- Index by Automatic MD Index -->
+    <!--$$MD_INDEX_END$$-->
 
 <!--
 Default Template
@@ -77,13 +77,14 @@ Default Template
 
 ## Making Data Packs
 
-|                        Name                        |                                 Description                                  |
-| :------------------------------------------------: | :--------------------------------------------------------------------------: |
-|    [misode.github.io](https://misode.github.io)    |       tools for datapacks, resourcepacks, worlds and a lot more stuff        |
-|     [minecraft.tools](https://minecraft.tools)     | tools for commands, world generation, crafting recipes, and tellraw commands |
-| [minecraftjson.com](https://www.minecraftjson.com) |                  tellraw and title generator for minecraft                   |
-|       [mcstacker.net](https://mcstacker.net)       |                       command generator for minecraft                        |
-|                                                    |                                                                              |
+|                                Name                                 |                                 Description                                  |
+| :-----------------------------------------------------------------: | :--------------------------------------------------------------------------: |
+|            [misode.github.io](https://misode.github.io)             |       tools for datapacks, resourcepacks, worlds and a lot more stuff        |
+|             [minecraft.tools](https://minecraft.tools)              | tools for commands, world generation, crafting recipes, and tellraw commands |
+|         [minecraftjson.com](https://www.minecraftjson.com)          |                  tellraw and title generator for minecraft                   |
+|               [mcstacker.net](https://mcstacker.net)                |                       command generator for minecraft                        |
+| [Tellraw Converter](https://shadowdara.github.io/generator/tellraw) |             Convert the old Tellraw JSON syntax to tellraw SNBT              |
+|                                                                     |                                                                              |
 
 ## Making Resource Packs
 
@@ -143,6 +144,13 @@ Default Template
 | [NBTExplorer](https://github.com/jaquadro/NBTExplorer) | A graphical NBT editor for all Minecraft NBT data sources |
 |        [Blockbench](https://www.blockbench.net)        |   3d programm for making pixel art models and textures    |
 |                                                        |                                                           |
+
+## Libarys
+
+|                  Name                   |                          Description                           |
+| :-------------------------------------: | :------------------------------------------------------------: |
+| [Read Tellraw](content/tellraw-parser/) | Read Tellraw Commands into JSON Objects, written in Typescript |
+|                                         |                                                                |
 
 ## Modded
 
@@ -240,6 +248,10 @@ Or Install by running
 cd content/language_datagen
 pip install -e .
 ```
+
+### Tellraw Parser from JSON to SNBT
+
+In newer Minecraft Versions, Tellraw data switched from JSON to SNBT, this is a Typescript Libary to convert it! More infos [here](content/tellraw-parser/)!
 
 ## Other Tools by me
 

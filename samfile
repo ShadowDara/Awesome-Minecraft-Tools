@@ -1,0 +1,3 @@
+dev:
+    CD content/site
+    RUN bun run build
