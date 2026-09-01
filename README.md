@@ -77,14 +77,14 @@ Default Template
 
 ## Making Data Packs
 
-|                                Name                                 |                                 Description                                  |
-| :-----------------------------------------------------------------: | :--------------------------------------------------------------------------: |
-|            [misode.github.io](https://misode.github.io)             |       tools for datapacks, resourcepacks, worlds and a lot more stuff        |
-|             [minecraft.tools](https://minecraft.tools)              | tools for commands, world generation, crafting recipes, and tellraw commands |
-|         [minecraftjson.com](https://www.minecraftjson.com)          |                  tellraw and title generator for minecraft                   |
-|               [mcstacker.net](https://mcstacker.net)                |                       command generator for minecraft                        |
-| [Tellraw Converter](https://shadowdara.github.io/generator/tellraw) |             Convert the old Tellraw JSON syntax to tellraw SNBT              |
-|                                                                     |                                                                              |
+|                                 Name                                  |                                 Description                                  |
+| :-------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
+|             [misode.github.io](https://misode.github.io)              |       tools for datapacks, resourcepacks, worlds and a lot more stuff        |
+|              [minecraft.tools](https://minecraft.tools)               | tools for commands, world generation, crafting recipes, and tellraw commands |
+|          [minecraftjson.com](https://www.minecraftjson.com)           |                  tellraw and title generator for minecraft                   |
+|                [mcstacker.net](https://mcstacker.net)                 |                       command generator for minecraft                        |
+| [Tellraw Converter](https://generator-gamma-black.vercel.app/tellraw) |             Convert the old Tellraw JSON syntax to tellraw SNBT              |
+|                                                                       |                                                                              |
 
 ## Making Resource Packs
 
