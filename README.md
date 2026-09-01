@@ -1,14 +1,12 @@
-<!-- 
+<!--
      Awesome Minecraft Tools
      a list for a lot of Minecraft Tools, farms and more
      credit Shadowdara 2025 and contributors
 -->
 
-
 # Awesome Minecraft-Tools
 
 a Tool Collection for Minecraft- see [Info](#info)
-
 
 <!--$$MD_INDEX_START$$-->
 <!-- 
@@ -21,7 +19,7 @@ a Tool Collection for Minecraft- see [Info](#info)
     DO NOT REMOVE THIS CREDIT !!!
 
     Last Update Time of the Index:
-    2026-04-19T16:12:12.415Z
+    2026-09-01T08:17:29.293Z
 -->
 
 ## Index
@@ -32,6 +30,7 @@ a Tool Collection for Minecraft- see [Info](#info)
   - [Making Mods](#making-mods)
   - [Skins](#skins)
   - [Wikis](#wikis)
+  - [Minecraft Servers](#minecraft-servers)
   - [Building](#building)
   - [Programs](#programs)
   - [Modded](#modded)
@@ -59,93 +58,98 @@ a Tool Collection for Minecraft- see [Info](#info)
 <!--
 Default Template
 
-## 
+##
 | Name | Description |
 |:--:|:--:|
 |  |  |
 |  |  |
 -->
 
-
 ## Downloading Mods, Datapacks, Resourcepacks, Shaders, Skins ...
-| Name | Description |
-|:--:|:--:|
-| [Modrinth](https://modrinth.com) | a place for downloading mods, resourcepacks, datapacks, shaders ... |
-| [Curseforge](https://www.curseforge.com/minecraft)| a place for downloading mods, resourcepacks, datapacks, shaders, worlds ... |
-| [Planetminecraft](https://www.planetminecraft.com)| a place for downloading mods, resourcepacks, datapacks, shaders, worlds and skins ... |
-| [VanillaTweaks](https://vanillatweaks.net) | a place for downloading Vanilla like resource packs and datapacks |
-|  |  |
 
+|                        Name                        |                                      Description                                      |
+| :------------------------------------------------: | :-----------------------------------------------------------------------------------: |
+|          [Modrinth](https://modrinth.com)          |          a place for downloading mods, resourcepacks, datapacks, shaders ...          |
+| [Curseforge](https://www.curseforge.com/minecraft) |      a place for downloading mods, resourcepacks, datapacks, shaders, worlds ...      |
+| [Planetminecraft](https://www.planetminecraft.com) | a place for downloading mods, resourcepacks, datapacks, shaders, worlds and skins ... |
+|     [VanillaTweaks](https://vanillatweaks.net)     |           a place for downloading Vanilla like resource packs and datapacks           |
+|                                                    |                                                                                       |
 
 ## Making Data Packs
-| Name | Description |
-|:--:|:--:|
-| [misode.github.io](https://misode.github.io) | tools for datapacks, resourcepacks, worlds and a lot more stuff |
-| [minecraft.tools](https://minecraft.tools) | tools for commands, world generation, crafting recipes, and tellraw commands |
-| [minecraftjson.com](https://www.minecraftjson.com) | tellraw and title generator for minecraft |
-| [mcstacker.net](https://mcstacker.net) | command generator for minecraft |
-|  |  |
 
+|                        Name                        |                                 Description                                  |
+| :------------------------------------------------: | :--------------------------------------------------------------------------: |
+|    [misode.github.io](https://misode.github.io)    |       tools for datapacks, resourcepacks, worlds and a lot more stuff        |
+|     [minecraft.tools](https://minecraft.tools)     | tools for commands, world generation, crafting recipes, and tellraw commands |
+| [minecraftjson.com](https://www.minecraftjson.com) |                  tellraw and title generator for minecraft                   |
+|       [mcstacker.net](https://mcstacker.net)       |                       command generator for minecraft                        |
+|                                                    |                                                                              |
 
 ## Making Resource Packs
-| Name | Description |
-|:--:|:--:|
-| [misode.github.io](https://misode.github.io) | tools for datapacks, resourcepacks, worlds and a lot more stuff |
-| [Atlas-Logger](https://github.com/Dominexis/Atlas-Logger) | atlas generator for resource packs because minecraft doens't generate them automaticly after 1.19.3 |
-| [Blockbench](https://www.blockbench.net) | 3d programm for making pixel art models and textures |
-|  |  |
 
+|                           Name                            |                                             Description                                             |
+| :-------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+|       [misode.github.io](https://misode.github.io)        |                   tools for datapacks, resourcepacks, worlds and a lot more stuff                   |
+| [Atlas-Logger](https://github.com/Dominexis/Atlas-Logger) | atlas generator for resource packs because minecraft doens't generate them automaticly after 1.19.3 |
+|         [Blockbench](https://www.blockbench.net)          |                        3d programm for making pixel art models and textures                         |
+|                                                           |                                                                                                     |
 
 ## Making Mods
-| Name | Description |
-|:--:|:--:|
-| [fabricmc.net/develop/template](https://fabricmc.net/develop/template/) | Fabric Mod Template Generator |
-| [Blockbench](https://www.blockbench.net) | 3d programm for making pixel art models and textures |
-| [misode.github.io](https://misode.github.io) | tools for datapacks, resourcepacks, worlds and a lot more stuff |
-|  |  |
 
+|                                  Name                                   |                           Description                           |
+| :---------------------------------------------------------------------: | :-------------------------------------------------------------: |
+| [fabricmc.net/develop/template](https://fabricmc.net/develop/template/) |                  Fabric Mod Template Generator                  |
+|                [Blockbench](https://www.blockbench.net)                 |      3d programm for making pixel art models and textures       |
+|              [misode.github.io](https://misode.github.io)               | tools for datapacks, resourcepacks, worlds and a lot more stuff |
+|                                                                         |                                                                 |
 
 ## Skins
-| Name | Description |
-|:--:|:--:|
-| [namemc.com](https://namemc.com/minecraft-skins) | a place to browse and skins |
-| [minecraftskins.com](https://www.minecraftskins.com) | a website to browse and create new skins |
-| [minecraft.tools](https://minecraft.tools) | skin stealer |
-| [mineskin.pro](https://www.mineskin.pro/) | Skin Editor |
-|  |  |
 
+|                         Name                         |               Description                |
+| :--------------------------------------------------: | :--------------------------------------: |
+|   [namemc.com](https://namemc.com/minecraft-skins)   |       a place to browse and skins        |
+| [minecraftskins.com](https://www.minecraftskins.com) | a website to browse and create new skins |
+|      [minecraft.tools](https://minecraft.tools)      |               skin stealer               |
+|      [mineskin.pro](https://www.mineskin.pro/)       |               Skin Editor                |
+|                                                      |                                          |
 
 ## Wikis
-| Name | Description |
-|:--:|:--:|
-| [Minecraft Wiki](https://minecraft.wiki) | minecraft wiki |
-| [Minecraft Fandom](https://minecraft.fandom.com) | minecraft wiki on fandom.com, *(i would recommend an add blocker)* |
-|  |  |
 
+|                       Name                       |                            Description                             |
+| :----------------------------------------------: | :----------------------------------------------------------------: |
+|     [Minecraft Wiki](https://minecraft.wiki)     |                           minecraft wiki                           |
+| [Minecraft Fandom](https://minecraft.fandom.com) | minecraft wiki on fandom.com, _(i would recommend an add blocker)_ |
+|                                                  |                                                                    |
+
+## Minecraft Servers
+
+|                  Name                   |                                                                           Description                                                                            |
+| :-------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [ServerBuddy](https://serverbuddy.net/) | Free website for discovering Java and Bedrock servers with live status, player-count history, uptime, MOTD and version history, plus browser-based server tools. |
 
 ## Building
-| Name | Description |
-|:--:|:--:|
-| [builditapp.com](https://builditapp.com) | view Buildings with a detailed catalogue and Instruction to build it |
-| [r/Minecraftbuilds](https://www.reddit.com/r/Minecraftbuilds/) | a place to showcase your completed builds!From PC to Pocket Edition, professional to novice all are welcome. We want to see what you have created! |
-| [Pinterest](https://de.pinterest.com/tinycraft/minecraft-building-ideas/) | Easy & creative build ideas for your Minecraft survival worlds and how to build them. See more ideas about minecraft, minecraft building, |
-|  |  |
 
+|                                   Name                                    |                                                                    Description                                                                     |
+| :-----------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                 [builditapp.com](https://builditapp.com)                  |                                        view Buildings with a detailed catalogue and Instruction to build it                                        |
+|      [r/Minecraftbuilds](https://www.reddit.com/r/Minecraftbuilds/)       | a place to showcase your completed builds!From PC to Pocket Edition, professional to novice all are welcome. We want to see what you have created! |
+| [Pinterest](https://de.pinterest.com/tinycraft/minecraft-building-ideas/) |     Easy & creative build ideas for your Minecraft survival worlds and how to build them. See more ideas about minecraft, minecraft building,      |
+|                                                                           |                                                                                                                                                    |
 
 ## Programs
-| Name | Description |
-|:--:|:--:|
-| [NBTExplorer](https://github.com/jaquadro/NBTExplorer) | A graphical NBT editor for all Minecraft NBT data sources |
-| [Blockbench](https://www.blockbench.net) | 3d programm for making pixel art models and textures |
-|  |  |
 
+|                          Name                          |                        Description                        |
+| :----------------------------------------------------: | :-------------------------------------------------------: |
+| [NBTExplorer](https://github.com/jaquadro/NBTExplorer) | A graphical NBT editor for all Minecraft NBT data sources |
+|        [Blockbench](https://www.blockbench.net)        |   3d programm for making pixel art models and textures    |
+|                                                        |                                                           |
 
 ## Modded
-| Name | Description |
-|:--:|:--:|
-| [createmod.com](https://createmod.com) | Download shematics for the create mod and get inspiration / Ideas for Building |
-|  |  |
 
+|                  Name                  |                                  Description                                   |
+| :------------------------------------: | :----------------------------------------------------------------------------: |
+| [createmod.com](https://createmod.com) | Download shematics for the create mod and get inspiration / Ideas for Building |
+|                                        |                                                                                |
 
 ## Farms
 
@@ -153,81 +157,78 @@ The size for the farm goes from Level 0 to 5, including space, buildtime, comple
 
 **AFK Emoji Meaning:**
 
-| Emoji | Meaning |
-|:--:|:--:|
-| ✔ | Fully Afk, just need to be loaded |
-| 💚 | radom ticks are required |
-| 💥 | Player is required, but afk possible |
-| ❌ | Not Afk possible |
+| Emoji |               Meaning                |
+| :---: | :----------------------------------: |
+|   ✔   |  Fully Afk, just need to be loaded   |
+|  💚   |       radom ticks are required       |
+|  💥   | Player is required, but afk possible |
+|  ❌   |           Not Afk possible           |
 
 <!--
 Default Template
 
-### 
+###
 | Link | Rates | Size | AFK |
 |:--:|:--:|:--:|:--:|
 | []() |  |  | ✔/💚/💥/❌ |
 |  |  |  |  |
 -->
 
-
 ### Copper
-| Link | Rates | Size | AFK |
-|:--:|:--:|:--:|:--:|
-| [Minecraft Elegance: Next Generation Copper Farm (Java 1.17-1.21.1)](https://youtu.be/JyHqXBC9W24?si=vK7_TMyRPegO2NhK) |  | 2/5 (End required) | 💥 |
-|  |  |  |  |
 
+|                                                          Link                                                          | Rates |        Size        | AFK |
+| :--------------------------------------------------------------------------------------------------------------------: | :---: | :----------------: | :-: |
+| [Minecraft Elegance: Next Generation Copper Farm (Java 1.17-1.21.1)](https://youtu.be/JyHqXBC9W24?si=vK7_TMyRPegO2NhK) |       | 2/5 (End required) | 💥  |
+|                                                                                                                        |       |                    |     |
 
 ### Deepslate
-| Link | Rates | Size | AFK |
-|:--:|:--:|:--:|:--:|
-| [Fastest way to mine Deepslate  in Minecraft 1.19](https://youtu.be/tTCVJ_Qpkjg?si=EJ_hImEWmMsF6Osg) | ca 22k/h | 2/5 (Slime) | ❌ |
-|  |  |  |  |
 
+|                                                Link                                                 |  Rates   |    Size     | AFK |
+| :-------------------------------------------------------------------------------------------------: | :------: | :---------: | :-: |
+| [Fastest way to mine Deepslate in Minecraft 1.19](https://youtu.be/tTCVJ_Qpkjg?si=EJ_hImEWmMsF6Osg) | ca 22k/h | 2/5 (Slime) | ❌  |
+|                                                                                                     |          |             |     |
 
 ### Ice
-| Link | Rates | Size | AFK |
-|:--:|:--:|:--:|:--:|
-| [Ice Farm. Redstoneless. AFKable. 16-18k/h \[Fun Farms 21\] Minecraft 1.13](https://youtu.be/d8A06bX2f3Y?si=AbfCFczYIO1Mhjxn) | ca 16-18k/h | 3/5 (Cold Biom and a lot of space required) | 💥 |
-|  |  |  |  |
 
+|                                                             Link                                                              |    Rates    |                    Size                     | AFK |
+| :---------------------------------------------------------------------------------------------------------------------------: | :---------: | :-----------------------------------------: | :-: |
+| [Ice Farm. Redstoneless. AFKable. 16-18k/h \[Fun Farms 21\] Minecraft 1.13](https://youtu.be/d8A06bX2f3Y?si=AbfCFczYIO1Mhjxn) | ca 16-18k/h | 3/5 (Cold Biom and a lot of space required) | 💥  |
+|                                                                                                                               |             |                                             |     |
 
 ### Mobsfarm
-| Link | Rates | Size | AFK |
-|:--:|:--:|:--:|:--:|
-| [\[Simple\] Path Finding Mob Farm 1.14](https://youtu.be/gibE51sgutg?si=e-uQKfH7DcS6sJuD) |  | 0/5 (Building Blocks only) | 💥 |
-|  |  |  |  |
 
+|                                           Link                                            | Rates |            Size            | AFK |
+| :---------------------------------------------------------------------------------------: | :---: | :------------------------: | :-: |
+| [\[Simple\] Path Finding Mob Farm 1.14](https://youtu.be/gibE51sgutg?si=e-uQKfH7DcS6sJuD) |       | 0/5 (Building Blocks only) | 💥  |
+|                                                                                           |       |                            |     |
 
 ### Potion Brewer
-| Link | Rates | Size | AFK |
-|:--:|:--:|:--:|:--:|
-| [Fully Automatic Potion Brewer \| Minecraft Java 1.20+ Redstone Tutorial](https://youtu.be/tafjYzMePg0?si=IKCBLLCbnBycFBvQ) |  | 2/5 (Redstone Stuff, Shulker) | ✔ |
-|  |  |  |  |
 
+|                                                            Link                                                             | Rates |             Size              | AFK |
+| :-------------------------------------------------------------------------------------------------------------------------: | :---: | :---------------------------: | :-: |
+| [Fully Automatic Potion Brewer \| Minecraft Java 1.20+ Redstone Tutorial](https://youtu.be/tafjYzMePg0?si=IKCBLLCbnBycFBvQ) |       | 2/5 (Redstone Stuff, Shulker) |  ✔  |
+|                                                                                                                             |       |                               |     |
 
 ### Sand
-| Link | Rates | Size | AFK |
-|:--:|:--:|:--:|:--:|
-| [Most Compact 108k/h Sand Duper \| Tutorial](https://youtu.be/S4HISFFdnuc?si=8OkEu7Zt5EVPlVpb) | ca 108k/h | 3/5 (End Portal Required) | ✔ |
-|  |  |  |  |
 
+|                                              Link                                              |   Rates   |           Size            | AFK |
+| :--------------------------------------------------------------------------------------------: | :-------: | :-----------------------: | :-: |
+| [Most Compact 108k/h Sand Duper \| Tutorial](https://youtu.be/S4HISFFdnuc?si=8OkEu7Zt5EVPlVpb) | ca 108k/h | 3/5 (End Portal Required) |  ✔  |
+|                                                                                                |           |                           |     |
 
 ### Sea Pickle
-| Link | Rates | Size | AFK |
-|:--:|:--:|:--:|:--:|
-| [Minecraft Simple Sea Pickle Farm 1.20 Tutorial \| ( Automatic )](https://youtu.be/bAYi7YyNV80?si=pHCmWogWMpUd6ZP9) |  | 1/5 (Redstone Stuff) | 💚 |
-|  |  |  |  |
 
+|                                                        Link                                                         | Rates |         Size         | AFK |
+| :-----------------------------------------------------------------------------------------------------------------: | :---: | :------------------: | :-: |
+| [Minecraft Simple Sea Pickle Farm 1.20 Tutorial \| ( Automatic )](https://youtu.be/bAYi7YyNV80?si=pHCmWogWMpUd6ZP9) |       | 1/5 (Redstone Stuff) | 💚  |
+|                                                                                                                     |       |                      |     |
 
 ## Repo Content
-
 
 ### Packformats for Data and Resource Packs as JSON
 
 click [here](content/packformats/) to get to the JSON List for Data and Resource
 Packs
-
 
 ### Language Codegen for Mods
 
@@ -240,38 +241,31 @@ cd content/language_datagen
 pip install -e .
 ```
 
-
 ## Other Tools by me
-
 
 ### Finder
 
 a CLI Tool which can search for Minecraft Worlds on your Disk.
 [Clicke here](https://github.com/shadowdara/finder) to see it
 
-
 ### Videoconverter
 
 a Tool which can be used to convert Replay Mod Recordings to real
 Videos. [Clicke here](https://github.com/shadowdara/videoconverter) to see it
 
-
 ## Info
 
 - obviously this List is **NOT** complete, so please help me and add missing stuff :)
 - Some Stuff is listed in multipple topics because its not possible to only sort them
-to one topic spezifically
-
+  to one topic spezifically
 
 ### Contributing
 
 - feel free to create Issue to contribute and help the List
 
-
 ### Why?
 
 - i didnt found a List, so i made one. Would be cool if this List will be used by many people
-
 
 ### Why a License?
 

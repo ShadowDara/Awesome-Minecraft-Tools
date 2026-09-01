@@ -3,6 +3,6 @@
     "u": "npx md-index --files=README.md"
   },
   "dependencies": {
-    "automatic-md-index": "^1.2.2"
+    "automatic-md-index": "1.2.2"
   }
 }
