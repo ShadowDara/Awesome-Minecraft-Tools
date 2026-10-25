@@ -133,6 +133,7 @@ Default Template
 |                                   Name                                    |                                                                    Description                                                                     |
 | :-----------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                 [builditapp.com](https://builditapp.com)                  |                                        view Buildings with a detailed catalogue and Instruction to build it                                        |
+| [Minecraft Schematic Generator](https://minecraftschematicgenerator.com) | AI text-to-schematic generator; describe a build and download it as .litematic / .schem |
 |      [r/Minecraftbuilds](https://www.reddit.com/r/Minecraftbuilds/)       | a place to showcase your completed builds!From PC to Pocket Edition, professional to novice all are welcome. We want to see what you have created! |
 | [Pinterest](https://de.pinterest.com/tinycraft/minecraft-building-ideas/) |     Easy & creative build ideas for your Minecraft survival worlds and how to build them. See more ideas about minecraft, minecraft building,      |
 |                                                                           |                                                                                                                                                    |
